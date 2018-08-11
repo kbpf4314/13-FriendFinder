@@ -1,4 +1,4 @@
-** FRIEND FINDER **
+# FRIEND FINDER #
 
 With this Friend Finder application you can be matched with a friend based on the results of your survey!
 
@@ -6,7 +6,7 @@ Languages used: Express, Node.js, jQuery
 
 -
 
-** Running Locally **
+## Running Locally ##
 
 To run this application locally use:
 localhost:3000 in your browser/postman
@@ -15,7 +15,7 @@ node server.js in your terminal
 
 -
 
-** Heroku **
+## Heroku ##
 
 This application is also deployed to Github & Heroku. The link to my Github repo is listed on both my home page, and my survey page.
 
