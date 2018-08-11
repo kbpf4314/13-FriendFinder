@@ -19,7 +19,7 @@ node server.js in your terminal
 
 This application is also deployed to Github & Heroku. The link to my Github repo is listed on both my home page, and my survey page.
 
-Heroku link: 
+Heroku link: https://friendfinderkpf.herokuapp.com/
 
 - 
 
